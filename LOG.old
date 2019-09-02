@@ -1,39 +1,12 @@
-2019/08/29-15:58:46.151 8028 Reusing MANIFEST C:\Users\10171663\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_dos.zczc.cz_0.indexeddb.leveldb/MANIFEST-000001
-2019/08/29-15:58:46.152 8028 Recovering log #29
-2019/08/29-15:58:46.153 8028 Reusing old log C:\Users\10171663\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_dos.zczc.cz_0.indexeddb.leveldb/000029.log 
-2019/08/29-16:13:03.778 5608 Compacting 1@1 + 1@2 files
-2019/08/29-16:13:04.221 5608 Generated table #32@1: 263 keys, 123789 bytes
-2019/08/29-16:13:04.221 5608 Compacted 1@1 + 1@2 files => 123789 bytes
-2019/08/29-16:13:04.267 5608 compacted to: files[ 0 0 1 0 0 0 0 ]
-2019/08/29-16:13:04.267 5608 Delete type=2 #27
-2019/08/29-16:13:04.268 5608 Delete type=2 #30
-2019/08/29-16:28:00.863 5608 Level-0 table #34: started
-2019/08/29-16:28:01.029 5608 Level-0 table #34: 1726523 bytes OK
-2019/08/29-16:28:01.088 5608 Delete type=0 #29
-2019/08/29-16:38:59.612 5608 Compacting 1@1 + 1@2 files
-2019/08/29-16:38:59.690 5608 Generated table #35@1: 263 keys, 124465 bytes
-2019/08/29-16:38:59.690 5608 Compacted 1@1 + 1@2 files => 124465 bytes
-2019/08/29-16:38:59.733 5608 compacted to: files[ 0 0 1 0 0 0 0 ]
-2019/08/29-16:38:59.734 5608 Delete type=2 #32
-2019/08/29-16:38:59.734 5608 Delete type=2 #34
-2019/08/29-16:47:53.093 5608 Level-0 table #37: started
-2019/08/29-16:47:53.209 5608 Level-0 table #37: 1734637 bytes OK
-2019/08/29-16:47:53.233 5608 Delete type=0 #33
-2019/08/29-17:05:11.015 5608 Compacting 1@1 + 1@2 files
-2019/08/29-17:05:11.085 5608 Generated table #38@1: 263 keys, 124622 bytes
-2019/08/29-17:05:11.085 5608 Compacted 1@1 + 1@2 files => 124622 bytes
-2019/08/29-17:05:11.126 5608 compacted to: files[ 0 0 1 0 0 0 0 ]
-2019/08/29-17:05:11.127 5608 Delete type=2 #35
-2019/08/29-17:05:11.129 5608 Delete type=2 #37
-2019/08/29-17:21:01.387 5608 Level-0 table #40: started
-2019/08/29-17:21:01.508 5608 Level-0 table #40: 1737036 bytes OK
-2019/08/29-17:21:01.572 5608 Delete type=0 #36
-2019/08/29-17:28:35.018 5608 Compacting 1@1 + 1@2 files
-2019/08/29-17:28:35.117 5608 Generated table #41@1: 263 keys, 124661 bytes
-2019/08/29-17:28:35.117 5608 Compacted 1@1 + 1@2 files => 124661 bytes
-2019/08/29-17:28:35.158 5608 compacted to: files[ 0 0 1 0 0 0 0 ]
-2019/08/29-17:28:35.158 5608 Delete type=2 #38
-2019/08/29-17:28:35.159 5608 Delete type=2 #40
-2019/08/30-12:51:50.451 5608 Level-0 table #43: started
-2019/08/30-12:51:50.585 5608 Level-0 table #43: 1740759 bytes OK
-2019/08/30-12:51:50.623 5608 Delete type=0 #39
+2019/09/02-11:38:41.489 6b84 Reusing MANIFEST C:\Users\10171663\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_dos.zczc.cz_0.indexeddb.leveldb/MANIFEST-000001
+2019/09/02-11:38:41.494 6b84 Recovering log #42
+2019/09/02-11:38:41.660 6b84 Reusing old log C:\Users\10171663\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_dos.zczc.cz_0.indexeddb.leveldb/000042.log 
+2019/09/02-12:09:31.540 5608 Compacting 1@1 + 1@2 files
+2019/09/02-12:09:31.803 5608 Generated table #45@1: 263 keys, 125075 bytes
+2019/09/02-12:09:31.803 5608 Compacted 1@1 + 1@2 files => 125075 bytes
+2019/09/02-12:09:31.833 5608 compacted to: files[ 0 0 1 0 0 0 0 ]
+2019/09/02-12:09:31.833 5608 Delete type=2 #41
+2019/09/02-12:09:31.834 5608 Delete type=2 #43
+2019/09/02-12:38:48.522 5608 Level-0 table #47: started
+2019/09/02-12:38:48.631 5608 Level-0 table #47: 1749779 bytes OK
+2019/09/02-12:38:48.680 5608 Delete type=0 #42
